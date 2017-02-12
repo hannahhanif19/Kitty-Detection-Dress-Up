@@ -9,6 +9,16 @@
 //Sources:
 //Modified from the KittyDar code
 //Link: https://github.com/harthur/kittydar
+//Bow Pictures' Links (changed pictures by cropping):
+//Bow #1: https://www.flickr.com/photos/quinnanya/5308150357/in/photolist-964EaK-cf4Wf-5qsQUq-7MDvQ4-5RuuY8-c5iBEu-6k85is-moSDc-oti78B-ub2KXL-c5ixK9-nVzzi3-2aoBJ-dDmK4e-9gLUZQ-EdXUyS-crs8Zb-6uVKGd-APsP8i-7LmFNe-DEH44w-5P5Fk1-6q8fe2-bx36yw-dxZ3Ro-5Kfvig-bx2pK3-4Pji5h-s44ab-aRbomg-cvgKNq-aL5et-coceLo-s447M-eZLtJw-c5itwq-cvgKXA-5Syf8Q-pqQvqQ-bKWMyp-axLXZv-oKPbd7-6ZnALt-cvgKq9-gRGsdm-8eab1G-oKPbc5-s448z-8u2e6P-dZzTCj/
+//Bow #2: https://www.flickr.com/photos/lala50/6921963000/in/photolist-bxESrE-8Z2Tta-7CBVab-5HaEJu-8rm1cS-7dxpVV-964EaK-cf4Wf-5qsQUq-7MDvQ4-5RuuY8-c5iBEu-6k85is-moSDc-oti78B-ub2KXL-c5ixK9-nVzzi3-2aoBJ-dDmK4e-9gLUZQ-EdXUyS-crs8Zb-6uVKGd-APsP8i-7LmFNe-DEH44w-5P5Fk1-6q8fe2-bx36yw-dxZ3Ro-5Kfvig-bx2pK3-4Pji5h-s44ab-aRbomg-cvgKNq-aL5et-coceLo-s447M-eZLtJw-c5itwq-cvgKXA-5Syf8Q-pqQvqQ-bKWMyp-axLXZv-oKPbd7-6ZnALt-cvgKq9
+//Bow #3: https://www.flickr.com/photos/35754040@N04/6463745519/in/photolist-aRbomg-cvgKNq-aL5et-coceLo-s447M-eZLtJw-c5itwq-cvgKXA-5Syf8Q-pqQvqQ-bKWMyp-axLXZv-oKPbd7-6ZnALt-cvgKq9-gRGsdm-8eab1G-oKPbc5-s448z-8u2e6P-dZzTCj-4PAUBS-9rL3yL-qUpmw-7SJCX6-5p47YD-p5DZFu-ABeQb-ce25SG-7qhaDL-oKPwLE-6uRuYP-amHu1T-bKWAit-7D4ekL-nYE2xV-e1bjHG-78jRq7-cvf6Rw-s43YU-cvgKh9-bx2Vxb-ABf69-7D6LTw-oKPbaS-dpDKY7-dpDQeY-8Eqnby-7D2X6D-6jQ9TD
+//Bow #4: https://www.flickr.com/photos/35754040@N04/6463745519/in/photolist-aRbomg-cvgKNq-aL5et-coceLo-s447M-eZLtJw-c5itwq-cvgKXA-5Syf8Q-pqQvqQ-bKWMyp-axLXZv-oKPbd7-6ZnALt-cvgKq9-gRGsdm-8eab1G-oKPbc5-s448z-8u2e6P-dZzTCj-4PAUBS-9rL3yL-qUpmw-7SJCX6-5p47YD-p5DZFu-ABeQb-ce25SG-7qhaDL-oKPwLE-6uRuYP-amHu1T-bKWAit-7D4ekL-nYE2xV-e1bjHG-78jRq7-cvf6Rw-s43YU-cvgKh9-bx2Vxb-ABf69-7D6LTw-oKPbaS-dpDKY7-dpDQeY-8Eqnby-7D2X6D-6jQ9TD
+//Hat Pictures' Links (changed pictures by cropping):
+//Hat #1: https://www.flickr.com/photos/dainec/4051588394/in/photolist-7b2s5j-9uFfde-bhGiAk-buK6S8-7PiYRt-a6M2th-85LoaE-7ib7Hs-6EjSKA-7hmuxG-6EfHoT-9cpkxK-7EKFdB-8zNi8P-ab1F91-aojpjY-8T1qdx-bWy42L-6fYTMs-bWzoNb-8FRTtG-hnqdS-8785dT-5yBrRU-5ZNnui-9kvmSv-vgCsi-6owgZr-7jy7Uy-6sd9Ht-79qTvo-dTFH7R-7EKEhH-bWzA9q-bz5PG2-5TqySs-9kvnGK-pUa65R-9aUbE5-7Pj2LD-8kZQT6-rLMGs-7VEmjs-6aMvbD-7tPArN-7v3QwV-5ZNnz4-4tG9k3-bWzBif-y6gvD
+//Hat #2: https://www.flickr.com/photos/91262622@N02/8663716925/in/photolist-eczPcK-eGmzu2-7ddWq-5f6mrw-2DuRKo-aogWSZ-74VjXm-anvb3p-5f1ZmB-59iQU-7Pj2sr-38UDKx-aoj5Yq-5eJ1rk-88TZYb-7Dwce4-Akdtt-9ayhy2-4R3A2a-9MUWd1-eXZndX-uYoLL-hicWqr-aogXZH-9ZoPDe-cHikVE-aogiBe-88QMg6-aoj9tQ-7D4ekL-as2AUu-7v3Qu6-67VCjD-2qz7r-7Y8oNE-8T4vB9-7hQZjq-8YHLoD-arYZck-pnPfas-85Hezg-9fPqka-bWy3Ew-FzeK7-7hhxdR-byDFoK-bWzphq-7ebRV9-88U129-9hgKib
+//Hat #3: https://www.flickr.com/photos/teofilo/2780737693/in/photolist-5eJ1rk-88TZYb-7Dwce4-Akdtt-9ayhy2-4R3A2a-9MUWd1-eXZndX-uYoLL-hicWqr-aogXZH-9ZoPDe-cHikVE-aogiBe-88QMg6-aoj9tQ-7D4ekL-as2AUu-7v3Qu6-67VCjD-2qz7r-7Y8oNE-8T4vB9-7hQZjq-8YHLoD-arYZck-pnPfas-85Hezg-9fPqka-bWy3Ew-FzeK7-7hhxdR-byDFoK-bWzphq-7ebRV9-88U129-9hgKib-9MUWu7-bWzArS-21nJX-7ib7My-JRaYg-gPv2-buK6Nz-7v7Erh-9hgKqU-7Pj1ar-4nyJT-9hgKxb-9kvnXi
+//Hat #4: https://www.flickr.com/photos/22732468@N08/7687284716/
 
 //Try it for yourself. It is a lot of fun!!
 
